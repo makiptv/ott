@@ -1,327 +1,957 @@
 [
   {
-    "name": " KLAN TV",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Klan TV.m3u8"
+    "name": "AL: RTK 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31077.m3u8"
   },
   {
-    "name": " TOP CHANNEL",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Top Channel.m3u8"
+    "name": "AL: RTK 2 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31078.m3u8"
   },
   {
-    "name": " vIZION PLUS",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Vizion Plus.m3u8"
+    "name": "AL: RTK 3 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31079.m3u8"
   },
   {
-    "name": " ACTION",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Action (live).m3u8"
+    "name": "AL: RTK 4 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31080.m3u8"
   },
   {
-    "name": "  COMEDY",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Comedy (live).m3u8"
+    "name": "AL: Klan Kosova HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31081.m3u8"
   },
   {
-    "name": "  DRAMA",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Drama (live).m3u8"
+    "name": "AL: Klan Kosova FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31082.m3u8"
   },
   {
-    "name": " BBF",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ BBF Music (live).m3u8"
+    "name": "AL: KTV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31083.m3u8"
   },
   {
-    "name": " RTSH 1",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH 1.m3u8"
+    "name": "AL: KTV FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31084.m3u8"
   },
   {
-    "name": "  RTSH 2",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH 2 (live).m3u8"
+    "name": "AL: Kanal 10 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31085.m3u8"
   },
   {
-    "name": " RTSH  3",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH 3 (live).m3u8"
+    "name": "AL: KANAL 10",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31086.m3u8"
   },
   {
-    "name": " RTSH FILM",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH Film (live).m3u8"
+    "name": "AL: RTV 21 SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31087.m3u8"
   },
   {
-    "name": " RTSH KORCA",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH Korca (live).m3u8"
+    "name": "AL: RTV 21 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31088.m3u8"
   },
   {
-    "name": "  RTSH 24",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH 24 (live).m3u8"
+    "name": "AL: RTV 21 Macedonia SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31089.m3u8"
   },
   {
-    "name": " RTSH PLUS",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH Plus (live).m3u8"
+    "name": "AL: RTV 21 Maqedonia FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31090.m3u8"
   },
   {
-    "name": " RTSH SHQIP",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH Shqip (live).m3u8"
+    "name": "AL: ATV FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31091.m3u8"
   },
   {
-    "name": " RTSH GJIROJASTRA",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH Gjirokastra (live).m3u8"
+    "name": "AL: T7 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31092.m3u8"
   },
   {
-    "name": " RTSH MUZIK",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH Muzike (live).m3u8"
+    "name": "AL: T7 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31093.m3u8"
   },
   {
-    "name": "  ALSAT M",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Alsat M.m3u8"
+    "name": "AL: Alsat M FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31094.m3u8"
   },
   {
-    "name": " KLAN KOSOVA",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Klan Kosova.m3u8"
+    "name": "AL: ALSAT M HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31095.m3u8"
   },
   {
-    "name": " KLAN MK",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Klan Macedonia (live).m3u8"
+    "name": "AL: TV Dukagjini FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31096.m3u8"
   },
   {
-    "name": " KLAN PLUS",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Klan Plus.m3u8"
+    "name": "AL: TV Dukagjini HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31097.m3u8"
   },
   {
-    "name": " MCNTV",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ MCN TV (live).m3u8"
+    "name": "AL: Top Channel HD",
+    "logo": "http://rayuvtsi-stb.site/guideV1/images/TOPCHANNEL.png",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31098.m3u8"
   },
   {
-    "name": " TURKISH STORIES",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Turkish Stories.m3u8"
+    "name": "AL: Top Channel",
+    "logo": "http://rayuvtsi-stb.site/guideV1/images/TOPCHANNEL.png",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31099.m3u8"
   },
   {
-    "name": " EURO FILM",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Euro Film (live).m3u8"
+    "name": "AL: Klan FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31100.m3u8"
   },
   {
-    "name": " FILM AKSION",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Film Aksion (live).m3u8"
+    "name": "AL: Klan HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31101.m3u8"
   },
   {
-    "name": " FILM HITS",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Film Hits (live).m3u8"
+    "name": "AL: Klan Plus FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31102.m3u8"
   },
   {
-    "name": " FILM THRILLER",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Film Thriller (live).m3u8"
+    "name": "AL: Vizion Plus FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31103.m3u8"
   },
   {
-    "name": " FILM AUTOR",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Film Autor (live).m3u8"
+    "name": "AL: Klan Macedonia",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31104.m3u8"
   },
   {
-    "name": " FILM DRAME",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Film Dram  (live).m3u8"
+    "name": "AL: ABC  FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31105.m3u8"
   },
   {
-    "name": " FILM FAMILY",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Film Family (live).m3u8"
+    "name": "AL: MCN TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31106.m3u8"
   },
   {
-    "name": " FILM GOLD",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Film Gold (live).m3u8"
+    "name": "AL: RTV ORA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31107.m3u8"
   },
   {
-    "name": " FILM FAMILY",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Film Family (live).m3u8"
+    "name": "AL: Syri TV FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31108.m3u8"
   },
   {
-    "name": " TRING FAMILY",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Family (live).m3u8"
+    "name": "AL: ANTENA HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31111.m3u8"
   },
   {
-    "name": "  TRING ACTION",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Action (live).m3u8"
+    "name": "AL: t v 1 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31112.m3u8"
   },
   {
-    "name": "  TRING SUPER",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Super (live).m3u8"
+    "name": "AL: ISTOGU CHANNEL",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31113.m3u8"
   },
   {
-    "name": "  TRING COLLECTION",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Collection (live).m3u8"
+    "name": "AL: Rm3u8H Satelit HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31116.m3u8"
   },
   {
-    "name": " TRING CLASSIC",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Classic (live).m3u8"
+    "name": "AL: Rm3u8H 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31117.m3u8"
   },
   {
-    "name": " TRING COMEDY",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Comedy (live).m3u8"
+    "name": "AL: Rm3u8H 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31118.m3u8"
   },
   {
-    "name": " TRING 3 PLUS",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ 3 Plus.m3u8"
+    "name": "AL: Rm3u8H 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31119.m3u8"
   },
   {
-    "name": " TRING LIFE",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Life (live).m3u8"
+    "name": "AL: Rm3u8H 24 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31120.m3u8"
   },
   {
-    "name": " TRING FANTASY",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Fantasy (live).m3u8"
+    "name": "AL: Rm3u8H Film SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31121.m3u8"
   },
   {
-    "name": " TOP NEWS",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Top News (live).m3u8"
+    "name": "AL: Rm3u8H Plus SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31122.m3u8"
   },
   {
-    "name": " ABC NEWS",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Abc News.m3u8"
+    "name": "AL: Rm3u8H Shqip SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31123.m3u8"
   },
   {
-    "name": " ART SPORT 1",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Sport 1.m3u8"
+    "name": "AL: Rm3u8H Muzik  SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31124.m3u8"
   },
   {
-    "name": " ART SPORT 2",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Sport 2.m3u8"
+    "name": "AL: Rm3u8H Shkoll  HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31125.m3u8"
   },
   {
-    "name": " ART SPORT 3",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Sport 3.m3u8"
+    "name": "AL: Rm3u8H Kuvend SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31126.m3u8"
   },
   {
-    "name": " ART SPORT 4",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Sport 4.m3u8"
+    "name": "AL: Rm3u8H Kor a SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31128.m3u8"
   },
   {
-    "name": " ART SPORT 5",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Sport 5.m3u8"
+    "name": "AL: Rm3u8H Kuk si SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31129.m3u8"
   },
   {
-    "name": " SUPER SPORT 1",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Super Sport Albania 1.m3u8"
+    "name": "AL: Rm3u8H Gjirokastra SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31130.m3u8"
   },
   {
-    "name": " SUPER SPORT 2",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Super Sport Albania 2.m3u8"
+    "name": "AL: TV Shenja",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31139.m3u8"
   },
   {
-    "name": " SUPER SPORT 3",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Super Sport Albania 3.m3u8"
+    "name": "AL: TV Koha HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31140.m3u8"
   },
   {
-    "name": " SUPER SPORT 4",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Super Sport Albania 4.m3u8"
+    "name": "AL: First TV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31141.m3u8"
   },
   {
-    "name": " SUPER SPORT 5",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Super Sport Albania 5.m3u8"
+    "name": "AL: ERA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31143.m3u8"
   },
   {
-    "name": " SUPER SPORT 6",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Super Sport Albania 6.m3u8"
+    "name": "AL: Zjarr TV FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31144.m3u8"
   },
   {
-    "name": " KUJTESA SPORT 1",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ K Sport 1 (live).m3u8"
+    "name": "AL: TV ULQINI",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31145.m3u8"
   },
   {
-    "name": " KUJTESA SPORT 2",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ K Sport 2 (live).m3u8"
+    "name": "AL: TV Mitrovica",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31147.m3u8"
   },
   {
-    "name": " KUJTESA SPORT 3",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ K Sport 3 (live).m3u8"
+    "name": "AL: ROZAFA TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31150.m3u8"
   },
   {
-    "name": " KUJTESA SPORT 4",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ K Sport 4 (live).m3u8"
+    "name": "AL: TV KOPLIKU",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31151.m3u8"
   },
   {
-    "name": " EURO SPORT 1",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ EuroSport 1 (live).m3u8"
+    "name": "AL: RTV Arb ria 1",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31153.m3u8"
   },
   {
-    "name": " EURO SPORT 1",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ EuroSport 2 (live).m3u8"
+    "name": "AL: APOLLON TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31154.m3u8"
   },
   {
-    "name": " TRING SPORT 1",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Sport 1.m3u8"
+    "name": "AL: Tv POLLOGU HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31155.m3u8"
   },
   {
-    "name": " TRING SPORT 2",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Sport 2.m3u8"
+    "name": "AL: TV OPINION FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31156.m3u8"
   },
   {
-    "name": " TRING SPORT 3",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Sport 3.m3u8"
+    "name": "AL: TV Tema Ferizaj HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31157.m3u8"
   },
   {
-    "name": " TRING SPORT 4",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ Tring Sport 4.m3u8"
+    "name": "AL: MALISHEVA TV FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31158.m3u8"
   },
   {
-    "name": " RTSH SPORT",
-    "logo": "https://backend.bizmatch.pro/uploads/iptv_7d1d1e9a02.png",
-    "url": "http://alboliveiptv.xyz/ RTSH Sport.m3u8"
+    "name": "AL: RTV MALISHEVA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31159.m3u8"
+  },
+  {
+    "name": "AL: ASHKALI",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31161.m3u8"
+  },
+  {
+    "name": "AL: Arta News HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31162.m3u8"
+  },
+  {
+    "name": "AL: Top News HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31164.m3u8"
+  },
+  {
+    "name": "AL: Klan News HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31165.m3u8"
+  },
+  {
+    "name": "AL: News 24 FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31166.m3u8"
+  },
+  {
+    "name": "AL: News 24  HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31167.m3u8"
+  },
+  {
+    "name": "AL: Report TV FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31168.m3u8"
+  },
+  {
+    "name": "AL: A2 CNN FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31169.m3u8"
+  },
+  {
+    "name": "AL: ORA News HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31170.m3u8"
+  },
+  {
+    "name": "AL: Euronews FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31171.m3u8"
+  },
+  {
+    "name": "AL: Fax News",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31172.m3u8"
+  },
+  {
+    "name": "AL: Premium Travel",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31173.m3u8"
+  },
+  {
+    "name": "AL: Kanali 7 News",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31174.m3u8"
+  },
+  {
+    "name": "AL: PLUS TV VITIJA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31179.m3u8"
+  },
+  {
+    "name": "AL: Bang Bang",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31181.m3u8"
+  },
+  {
+    "name": "AL: Cufo HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31182.m3u8"
+  },
+  {
+    "name": "AL: Tring Tring",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31183.m3u8"
+  },
+  {
+    "name": "AL: Kids",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31184.m3u8"
+  },
+  {
+    "name": "AL: Tip TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31185.m3u8"
+  },
+  {
+    "name": "AL: Junior TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31186.m3u8"
+  },
+  {
+    "name": "AL: Netflix Femije",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31188.m3u8"
+  },
+  {
+    "name": "AL: Sofia HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31189.m3u8"
+  },
+  {
+    "name": "AL: Pikaboo",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31191.m3u8"
+  },
+  {
+    "name": "AL: RTV 21 Junior",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31192.m3u8"
+  },
+  {
+    "name": "AL: Rm3u8H F mij  SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31194.m3u8"
+  },
+  {
+    "name": "AL: PRINCE KIDS",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31195.m3u8"
+  },
+  {
+    "name": "AL: RTV Arb ria 3",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31196.m3u8"
+  },
+  {
+    "name": "AL: Film Max HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31200.m3u8"
+  },
+  {
+    "name": "AL: Film Gold HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31201.m3u8"
+  },
+  {
+    "name": "AL: Family HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31202.m3u8"
+  },
+  {
+    "name": "AL: Film Him3u8",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31203.m3u8"
+  },
+  {
+    "name": "AL: Film Aksion HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31204.m3u8"
+  },
+  {
+    "name": "AL: Film Komedi",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31205.m3u8"
+  },
+  {
+    "name": "AL: Film Autor",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31206.m3u8"
+  },
+  {
+    "name": "AL: Film Thriller",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31207.m3u8"
+  },
+  {
+    "name": "AL: Film Dram ",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31208.m3u8"
+  },
+  {
+    "name": "AL: Euro Film",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31209.m3u8"
+  },
+  {
+    "name": "AL: T  FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31210.m3u8"
+  },
+  {
+    "name": "AL: Jolly FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31212.m3u8"
+  },
+  {
+    "name": "AL: Tring Classic",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31213.m3u8"
+  },
+  {
+    "name": "AL: Tring Super HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31214.m3u8"
+  },
+  {
+    "name": "AL: Tring Action",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31215.m3u8"
+  },
+  {
+    "name": "AL: Tring Collection HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31216.m3u8"
+  },
+  {
+    "name": "AL: Tring Novelas FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31217.m3u8"
+  },
+  {
+    "name": "AL: Tring Fantasy",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31218.m3u8"
+  },
+  {
+    "name": "AL: Tring Life",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31219.m3u8"
+  },
+  {
+    "name": "AL: Tring Shqip",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31220.m3u8"
+  },
+  {
+    "name": "AL: Tring Comedy",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31221.m3u8"
+  },
+  {
+    "name": "AL: Tring 3+ FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31230.m3u8"
+  },
+  {
+    "name": "AL: Tring 3+ SD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31231.m3u8"
+  },
+  {
+    "name": "AL: Stinet",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31232.m3u8"
+  },
+  {
+    "name": "AL: Tring Smile",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31233.m3u8"
+  },
+  {
+    "name": "AL: Kanal D Drama FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31234.m3u8"
+  },
+  {
+    "name": "AL: EPISODE TV FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31235.m3u8"
+  },
+  {
+    "name": "AL: Fox",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31238.m3u8"
+  },
+  {
+    "name": "AL: Fox Movies",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31239.m3u8"
+  },
+  {
+    "name": "AL: Fox Life",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31240.m3u8"
+  },
+  {
+    "name": "AL: Fox Crime",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31241.m3u8"
+  },
+  {
+    "name": "AL: Living HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31243.m3u8"
+  },
+  {
+    "name": "AL: TDC  FHD (MultiSub)",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31244.m3u8"
+  },
+  {
+    "name": "AL: Sky Komedi",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31245.m3u8"
+  },
+  {
+    "name": "AL: Sky Drame",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31246.m3u8"
+  },
+  {
+    "name": "AL: Sky Max",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31247.m3u8"
+  },
+  {
+    "name": "AL: Sky Aksion HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31249.m3u8"
+  },
+  {
+    "name": "AL: Explorer Shkence",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31253.m3u8"
+  },
+  {
+    "name": "AL: Explorer Histori",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31254.m3u8"
+  },
+  {
+    "name": "AL: Explorer Natyra",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31255.m3u8"
+  },
+  {
+    "name": "AL: Tring Planet",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31256.m3u8"
+  },
+  {
+    "name": "AL: Tring World",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31257.m3u8"
+  },
+  {
+    "name": "AL: Tring History",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31258.m3u8"
+  },
+  {
+    "name": "AL: Muse",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31259.m3u8"
+  },
+  {
+    "name": "AL: National Geographic",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31260.m3u8"
+  },
+  {
+    "name": "AL: Travel Channel",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31261.m3u8"
+  },
+  {
+    "name": "AL: Animal Planet HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31262.m3u8"
+  },
+  {
+    "name": "AL: Planet",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31263.m3u8"
+  },
+  {
+    "name": "AL: KITCHEN 24",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31264.m3u8"
+  },
+  {
+    "name": "AL: My Music",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31266.m3u8"
+  },
+  {
+    "name": "AL: FOLKLORIT",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31268.m3u8"
+  },
+  {
+    "name": "AL:  IFTELI TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31269.m3u8"
+  },
+  {
+    "name": "AL: RTV 21 Popullore",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31272.m3u8"
+  },
+  {
+    "name": "AL: TV SHARRI",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31273.m3u8"
+  },
+  {
+    "name": "AL: Folk +",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31274.m3u8"
+  },
+  {
+    "name": "AL: Top Estrada TV HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31275.m3u8"
+  },
+  {
+    "name": "AL: Dasma TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31276.m3u8"
+  },
+  {
+    "name": "AL: RTV 21 Mix HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31277.m3u8"
+  },
+  {
+    "name": "AL: TV Diaspora",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31279.m3u8"
+  },
+  {
+    "name": "AL: Shota TV FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31280.m3u8"
+  },
+  {
+    "name": "AL: RTV Fontana",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31283.m3u8"
+  },
+  {
+    "name": "AL: BBF Music",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31284.m3u8"
+  },
+  {
+    "name": "AL: TV FESTINA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31285.m3u8"
+  },
+  {
+    "name": "AL: ZICO TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31286.m3u8"
+  },
+  {
+    "name": "AL: Supersonic TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31287.m3u8"
+  },
+  {
+    "name": "AL: Elrodi TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31288.m3u8"
+  },
+  {
+    "name": "AL: Turbo Channel HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31289.m3u8"
+  },
+  {
+    "name": "AL: MTV Kosova",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31290.m3u8"
+  },
+  {
+    "name": "AL: RTV 21 Plus HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31291.m3u8"
+  },
+  {
+    "name": "AL: On Tv",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31293.m3u8"
+  },
+  {
+    "name": "AL: Euro AL",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31294.m3u8"
+  },
+  {
+    "name": "AL: Klan Music HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31296.m3u8"
+  },
+  {
+    "name": "AL: TV Opoja",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31298.m3u8"
+  },
+  {
+    "name": "AL: TV Dielli HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31299.m3u8"
+  },
+  {
+    "name": "AL: TV LIRIA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31300.m3u8"
+  },
+  {
+    "name": "AL: TV USKANA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31302.m3u8"
+  },
+  {
+    "name": "AL: Ashkali Tallava",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31303.m3u8"
+  },
+  {
+    "name": "AL: Drita Tv Zvicer",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31304.m3u8"
+  },
+  {
+    "name": "AL: Besa TV",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31305.m3u8"
+  },
+  {
+    "name": "AL: TV Teuta",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31306.m3u8"
+  },
+  {
+    "name": "AL: Peace Tv FHD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31308.m3u8"
+  },
+  {
+    "name": "AL: Peace TV Shqip",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31309.m3u8"
+  },
+  {
+    "name": "AL: RTV Islam",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31311.m3u8"
+  },
+  {
+    "name": "AL: RTV Pendimi",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31312.m3u8"
+  },
+  {
+    "name": "AL: RTV ELKALEM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31313.m3u8"
+  },
+  {
+    "name": "AL: RTV 1 ALBANIA",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31315.m3u8"
+  },
+  {
+    "name": "AL: Kurani Fisnik Shqip HD (A.I.I.T.C)",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31318.m3u8"
+  },
+  {
+    "name": "AL: Kurani Fisnik Arabisht-Shqip HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31319.m3u8"
+  },
+  {
+    "name": "AL: Elvis Naci Channel",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31322.m3u8"
+  },
+  {
+    "name": "AL: MYSLIMANET E VEGJEL",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31323.m3u8"
+  },
+  {
+    "name": "AL: TV ASHKALI ISLAM",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31324.m3u8"
+  },
+  {
+    "name": "AL: Filmi Umeri r.a",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31325.m3u8"
+  },
+  {
+    "name": "UK: Islam Channel",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31327.m3u8"
+  },
+  {
+    "name": "KSA: Quran MAKKAH TV `",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31328.m3u8"
+  },
+  {
+    "name": "UK: Peace TV English",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31332.m3u8"
+  },
+  {
+    "name": "AL: OVERSPORT 1 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31333.m3u8"
+  },
+  {
+    "name": "AL: OVERSPORT 2 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31334.m3u8"
+  },
+  {
+    "name": "AL: OVERSPORT 3 HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31335.m3u8"
+  },
+  {
+    "name": "AL: Rm3u8H Sport HD",
+    "logo": "https://images.ottplay.com/images/ottplay-378.jpg",
+    "url": "http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/31337.m3u8"
   }
 ]
